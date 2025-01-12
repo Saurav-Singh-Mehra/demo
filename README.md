@@ -1,2 +1,3 @@
 # demo
-this is demo form my first repo
+this is demo for my first repo
+by Saurav Singh Mehra
